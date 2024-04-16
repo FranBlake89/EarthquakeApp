@@ -1,5 +1,3 @@
-
-```markdown
 # EarthquakeApp
 
 This is a technical test for Frogmi.
@@ -73,7 +71,7 @@ Considerations:
     "per_page": Integer
   }
 }
-
+```
 
 - Data must be filterable by:
   - `mag_type`. Using filters[mag_type]. Can be more than one. Possible values: md, ml, ms, mw, me, mi, mb, mlg.
@@ -111,5 +109,4 @@ curl --request POST \
 --header 'content-type: application/json' \
 --data '{"body": "This is a comment" }'
 ```
-```
-```
+
