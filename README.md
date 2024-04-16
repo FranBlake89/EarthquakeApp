@@ -1,4 +1,3 @@
-Por supuesto, aquí tienes el contenido formateado como un archivo Markdown:
 
 ```markdown
 # EarthquakeApp
